@@ -1,4 +1,4 @@
-# Titanic Survival
+# Titanic Survivor
 A Machine Learning Project  
   
 Dataset: https://www.kaggle.com/hesh97/titanicdataset-traincsv  
